@@ -13,4 +13,4 @@ deployment:
   prod:
     branch: master
     heroku:
-    appname: {zhang-bad}
+    appname: zhang-bad
