@@ -2,5 +2,5 @@ dependencies:
   overide:
     -npm install
     -bower install
-+ post:
-+ -grunt build
+  post:
+    -grunt build
