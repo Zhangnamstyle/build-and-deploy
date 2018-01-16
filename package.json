@@ -1,5 +1,8 @@
 {
   "name": "build-and-deploy",
+  "scripts" : {
+    "postinstall": "bower install"
+  },
   "version": "2.0.0",
   "description": "continuous deployment of simple javascript application",
   "author": "Eirik Bell",
