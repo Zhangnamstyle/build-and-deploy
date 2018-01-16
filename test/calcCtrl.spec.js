@@ -100,7 +100,7 @@ describe('the calculation controller', function () {
 
       it('should calculate 15 - -5 = 20', function () {
         var ctrl = createController();
-        ctrl.calculate(15, -51, operator);
+        ctrl.calculate(15, -5, operator);
 
         expect(ctrl.result).toBe(20);
       });
