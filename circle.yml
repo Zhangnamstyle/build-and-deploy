@@ -6,5 +6,5 @@ dependencies:
     -grunt build
 
 test:
-    overide:
-      - grunt test
+  overide:
+      -grunt test
