@@ -1,0 +1,3 @@
+dependencies:
+  overide:
+    -npm install
