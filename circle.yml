@@ -1,3 +1,4 @@
 dependencies:
   overide:
     -npm install
+    -bower install
