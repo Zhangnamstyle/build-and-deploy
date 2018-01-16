@@ -10,7 +10,7 @@ test:
    - grunt test
 
 deployment:
- prod:
-   branch: master
-   heroku:
-     appname: {zhang-bad}
+  prod:
+    branch: master
+    heroku:
+    appname: {zhang-bad}
