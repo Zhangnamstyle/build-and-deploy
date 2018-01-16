@@ -4,7 +4,6 @@ dependencies:
     -bower install
   post:
     -grunt build
-
 test:
   overide:
-      -grunt test
+    -grunt test
